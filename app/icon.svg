@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="g" cx="38%" cy="32%" r="75%">
+      <stop offset="0%" stop-color="#F3D38A"/>
+      <stop offset="45%" stop-color="#E3A548"/>
+      <stop offset="100%" stop-color="#B5813A"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0D0B09"/>
+  <!-- A drop of amber — the "preserved in amber" mark used throughout the app -->
+  <path d="M32 12 C40 24 47 32 47 40 a15 15 0 1 1 -30 0 C17 32 24 24 32 12 Z" fill="url(#g)"/>
+</svg>
